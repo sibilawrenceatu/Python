@@ -37,7 +37,26 @@ The code quality is checked using Pylint throughout the program.
 
 ### **Detailed description of the programs**
 
-#### <u>**1. main.py program:-**</u>
+#### <u>**1. Exercise1 folder:-**</u>
+Exercise1 folder contains programs practiced for calculating the student's budget, arithematic operatos calculations, data type identification, and logical comparison operators. The folder also contains string data type programs for immutable check, interpolation, slicing and concatenation.
+
+#### <u>**2. Exercise2 folder:-**</u>
+Exercise2 folder contains program for docstring practice.
+
+#### <u>**3. Exercise3 folder:-**</u>
+Exercise 3 folder contains practiced programs for list concatenation and nesting. It also contains programs for tuple, dictionary and set data types.
+
+#### <u>**4. Exercise4 folder:-**</u>
+Exercise 4 folder contains practiced programs for if statements, loops like for and while. The folder also contains programs for temperature conversion, boolean operators, and program flow statements like break, continue and pass.
+
+#### <u>**5. Exercise5 folder:-**</u>
+This folder contains practiced programs for functions, lambda, map, and scope.
+
+#### <u>**6. Exercise6 folder:-**</u>
+
+This folder contains practiced programs for operating system checks and library importing. 
+
+
 
 
 ## **Author**
