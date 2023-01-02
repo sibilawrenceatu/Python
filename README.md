@@ -81,9 +81,9 @@ This folder contains batch script created for building a folder structure.
 ### **Code Maintenance in Git Hub and History of Execution**
 
 All the codes are saved to Git Hub location https://github.com/sibilawrenceatu/Python.
-The project has 5 branches named "main" (where all the final codes are merged and saved from other branches, a "test" branch (this branch is used to test the codes before committing to the main branch), a "dev" branch (used by developers of the project for new developments related to existing project), a "Newfeatures" branch (where new features are developed and merge to the main branch), and a "Bug-Fix" branch which is used to fixing the bugs in the exisitng project and finally merge to the main branch.
+The project has 5 branches named "main" (where all the final codes are merged and saved from other branches), a "test" branch (this branch is used to test the codes before committing to the main branch), a "dev" branch (used by developers of the project for new developments related to existing project), a "Newfeatures" branch (where new features are developed and merge to the main branch), and a "Bug-Fix" branch which is used to fixing the bugs in the exisitng project and finally merge to the main branch.
 
-The Newfeatures branch was updated with necessary modifications to the comments in the python programs and finally merged to the main branch. 
+The "Newfeatures" branch was updated with necessary modifications to the comments in the python programs and finally merged to the main branch. 
 
 ## **Author**
 
