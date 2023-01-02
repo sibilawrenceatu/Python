@@ -3,7 +3,7 @@ This repository is created for assignment 2 of the IAC Module
 
 # Project Detailed Summary
 
-The goal of this project is to create a feature branch named "Newfeatures" for the Python's exercises carried out for the weeks 2 to 5. This project has completed by following best practices from the Python and Git Hub walkthroughs as specified by the lecturer. The "Newfeatures" branch is created for this project for the purpose of adding additional codes to the project, and merge the "Newfeature" branch to the "main" branch. Additionally "Dev", "Bug-Fix" and "Test" branches were also created by following the best practices in industries as well as the lecturer's notes.   
+The goal of this project is to create a feature branch named "Newfeatures" for the Python's exercises carried out for the weeks 2 to 5. This project has completed by following best practices from the Python and Git Hub walkthroughs as specified by the lecturer. The "Newfeatures" branch is created for this project for the purpose of adding additional codes to the project, and merge the "Newfeatures" branch to the "main" branch. Additionally "Dev", "Bug-Fix" and "Test" branches were also created by following the best practices in industries as well as the lecturer's notes.   
 
 ## **Project Scope**
 
