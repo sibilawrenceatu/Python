@@ -80,7 +80,7 @@ This folder contains batch script created for building a folder structure.
 
 ### **Code Maintenance in Git Hub and History of Execution Summary**
 
-All the codes are saved to Git Hub location [https://github.com/sibilawrenceatu/Python](https://github.com/sibilawrenceatu/Python.git).
+All the codes are saved to Git Hub location https://github.com/sibilawrenceatu/Python.git.
 The project has 5 branches named "main" (where all the final codes are merged and saved from other branches), a "test" branch (this branch is used to test the codes before committing to the main branch), a "dev" branch (used by developers of the project for new developments related to existing project), a "Newfeatures" branch (where new features are developed and merge to the main branch), and a "Bug-Fix" branch which is used to fixing the bugs in the exisitng project and finally merge to the main branch.
 
 The "Newfeatures" branch was updated with necessary modifications to the comments in the python programs and finally merged to the main branch. The versioning of all committed files are available and can be accessed from Git-Hub on demand by either using the command line interface or the Visual Studio Code software by cloning the repository URL https://github.com/sibilawrenceatu/Python.git.  
