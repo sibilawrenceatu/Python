@@ -56,8 +56,29 @@ This folder contains practiced programs for functions, lambda, map, and scope.
 
 This folder contains practiced programs for operating system checks and library importing. 
 
+#### <u>**7. Exercise7 folder:-**</u>
 
+Exercise 7 contains practiced programs for working directory creation, Diesel endurance calculation, file operation, input validation and raising exception.
 
+#### <u>**8. Exercise8 folder:-**</u>
+
+This folder contains practiced programs for classes.
+
+#### <u>**9. Exercise9 folder:-**</u>
+
+This folder contains practiced programs for pylint.
+
+#### <u>**10. Exercise10 folder:-**</u>
+
+This folder contains practiced programs for cpu log, file utilities, time calculation and OS utilities.
+
+#### <u>**11. Exercise11 folder:-**</u>
+
+This folder contains practiced programs for TCP, UDP, multicast and FTP operations.
+
+#### <u>**12. Exercise12 folder:-**</u>
+
+This folder contains batch script created for building a folder structure.
 
 ## **Author**
 
